@@ -1,0 +1,14 @@
+.menu {
+    background: #002878;
+    padding: 0.3rem;
+    display: flex;
+    justify-content: center;
+
+    .option {
+        padding: 0.5rem 1rem;
+        color: white;
+        text-decoration: none;
+        font-weight: bold;
+        cursor: pointer;
+    }
+}
